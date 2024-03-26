@@ -117,3 +117,5 @@ else:
         print('    YOU  LOSE   ')
     print()
     print('Thanks for playing!')
+
+final_exit = input()
